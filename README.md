@@ -1,6 +1,6 @@
 # Активность
 
-[![alexeykasp's GitHub stats](https://ghstats.alexeykasp.ru/api?username=alexeykasp&theme=shadow_red&show_icons=true&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+[![alexeykasp's GitHub stats](https://ghstats.alexeykasp.ru/api?username=alexeykasp&theme=shadow_red&show_icons=true&locale=ru&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Языки
 
